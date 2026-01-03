@@ -43,7 +43,7 @@ module.exports = async (req, res) => {
 
     "X-Requested-With": "mark.via.gp",
     Referer: "http://54.36.173.235/ints/login",
-    Cookie: "PHPSESSID=YOUR_SESSION_ID",
+    Cookie: "PHPSESSID=2e8fe768d6dfa63542ca0f09fba1ddac",
   };
 
   try {
